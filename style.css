@@ -1,0 +1,17 @@
+li{
+  color:blue;
+}
+.em{
+  text-decoration:underline;
+}
+#control{
+  float:none;
+}
+.black{
+  background-color:black;
+  color: white;
+}
+.white{
+  background-color:white;
+  color: black;
+}
