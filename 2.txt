@@ -1,0 +1,3 @@
+<h2>variables and constraint</h2>
+variable...
+constraint..
